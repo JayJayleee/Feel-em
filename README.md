@@ -1,7 +1,7 @@
 # [Project] Feel:em
 
 ## [Notion]
-https://www.notion.so/Project-Feel-em-1e20a457fbdf4151bfac0cb4354742c2?pvs=4
+[Feel:em 노션 페이지](https://warm-blinker-44f.notion.site/Feel-em-af0a3b05675d4b1ba21561f43e94290b)
 ## 🐵개요
 | 개요 타이틀 | 내용 |
 | --- | --- |
